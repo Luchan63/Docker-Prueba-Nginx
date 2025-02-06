@@ -9,16 +9,6 @@ Aprender a crear una imagen con nginx y poder dockerizar una web
 
 Soy un apasionado del desarrollo de software con un enfoque integral en backend, frontend y DevOps. Me encanta diseñar y construir sistemas escalables, optimizados y seguros, aplicando las mejores prácticas en arquitectura de microservicios. Disfruto trabajando con tecnologías modernas para crear soluciones eficientes y bien estructuradas, siempre buscando la automatización y la mejora continua. Mi objetivo es desarrollar software robusto y mantenerme en constante aprendizaje en este mundo en evolución. 🚀
 
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
-
-
 ## 🛠 Skills
 * Javascript
 * HTML
@@ -28,10 +18,7 @@ To deploy this project run
 * Mysql
 * Docker
 
-
-
-
-## Installation
+## Intalacion
 
 ```bash
  git clone <URL_DEL_REPOSITORIO>
@@ -50,12 +37,11 @@ spring.datasource.password=tu_contraseña
 
 Acceder a la aplicacion mediante http://localhost:8080/
     
-## Tech Stack
+## Tecnologías
 
 **Client:** Html, Css, JavaScript
 
 **Server:** Java, Spring Boot
-
 
 ## Authors
 
